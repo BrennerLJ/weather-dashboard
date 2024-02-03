@@ -1,3 +1,16 @@
+/* *{
+
+}
+
+header {
+    justify-content: center;
+    background-color: darkblue;
+    color: white;
+
+
+}
+
+
 button{
     display: block;
     background-color: skyblue;
@@ -17,4 +30,4 @@ button{
 button:hover {
     background-color: azure;
     color: skyblue;
-}
+} */
